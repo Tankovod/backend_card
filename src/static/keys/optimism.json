@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "optimism-390513",
+  "private_key_id": "a63f1cc553a9dec9954372db6044d3238a95de39",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQOXdPAdqXbMTg\nDiV8QfdEf4PECQ2cownCxDLvrbJ+mYbR9FWpbpfWfbJ8QI+P30hygdkGblSApdAf\ngejQqnl3dFnXVI3NkQRcv74yTQWmusqv+gnxBW2rpUMx/1loTrBhPa623OI9x3td\n1nhB/SyB/FPWAexH+ikvJABSCd1huMXu12dTGGQDz1iyEvEKrWEg6tuMbcpMnl9J\ns9mB7Tc3SLRQSMCpZwMJ8KanoF13i5NHHot79B+Ud69pmliKVxd3f7NzlB6q/2p7\nBS9LnsrG45k1p2IYDf03Jg0dunvQDLlEbabbEGaU6hGXUN03BYh4aXWyCnFbpQ49\nM3d/7HhrAgMBAAECggEADxKCXnZiIssSNBwmXLsEHVt6KMWNb542Se15KUUsz0A6\nL7zqKt/M7HSMb6HLnwyFpLnfNWXYXO13N6O68fuu4AX/0Zobi60pGIxNUzJrccY5\nonRuD4syr+qAgDwgWt9GXZM1rBSfbDdptB/Sx4qu2RLGrCndSJRjM3L+uZQgV7Lw\nfcD1KGyVh3FHE6FJo66HsFLlBTeo/JB+wIm+x1g8jTPusFodL+Xa5BrluO8Umzf6\nYEBLiA+N7hSPSKSoiuk/7BI9I8grkBIqBj0tykp2+TB2wF7EAmHrRheFwXwuLR+P\nAWlaFjElMzaY9gsKIj9U7c45aDNmsQCp8WKVe3HnwQKBgQDKKwzSM5umOE1HpKIh\nka5iLJs+ee2SVJjBY7BFRVCgAXevqVhZDPTs292R8x8tc7T413pL/uo5brg/nFG9\n19lOBPe8jZzQE1Nt5NufYYHdV9V6IDSqRpkUKlZAxVycK89bctejoLvZxb/mLtiW\n4rtYCu1Elr3LZZJ80eGgcxDaSwKBgQC2oKO2hj+OSXDafAcYnzomp6o0TF+eHR65\nCJHdO2o/K1UnB2sYe2b0unkg5YOiYS+dYWAnZ2TNTg9fwl8ZRjdC6bj/Aiy09gX9\nGEQ/rzI5D9Z33LB9PeRiMNn4fOyrTSjXX0WFDsbMj+3fbr/PHvjGHsye6A/NJ8WI\n2567IMQGYQKBgHM8TraSTCpW9VXc9b2EuI2lN2hJP62lIt044YTambZan8o1EPLR\ne9p3CLjkh+T0izc8O62NxBywi71WcRFxM6BRHJURc0z3dxqw1K7oeYmdQ0W1jc9x\nJlhkOX36AWvTXQKXV2shd3IOUe/2y+ZVnsv0joIGGnERmIolaCJ49CY5AoGAHW9o\n06txpPpbUSu6bRKE6eQOP92rb62b3RDviavg5QuT7vV4InsJThqcGVxEyjBF32Tp\nfZBho+GYAsQuVcGGeKd5JMjx8bzRnEiD/4u6WY4e8DTG0XjfTaA4EZ/4+Wc3VPdL\nGjYWfrQYD/Imwjhoum4OZvJaUaO+Z9+WBu0yCyECgYEAocBKkvNGkMnVdLvinFl2\n3hVk8J0kl6U5n4opKpNCE/5To2YwGUja54RvRmr+HWyk8/A0zp9jh6cL8lVNQQYd\n3YiJqoTqKXF070dtyukusQ1kwoKiM7Fai0OpwPDaFwd+jgjzfbPf3ZWTmywdK4NQ\nhX7TXuKOmX2F6eoVToTJlVI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wallet-web-client@optimism-390513.iam.gserviceaccount.com",
+  "client_id": "111019695756159334807",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wallet-web-client%40optimism-390513.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

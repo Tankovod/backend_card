@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "digital-maker-375921",
+  "private_key_id": "643cca931f911bc8874c338e5f23be15acec023e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDlUwiNhqBeFRji\nOdFGx65u0MxSc4rfRg8EFZ9YBXE9bqyGME3POzIFTQcpJrYJHWMa1I0gUiyp7UEB\nQVQ5e2EyjdvLjUaqk1S+dhSeLxAW/wyydDfBrMJf1NlU5ZDszcFqqZLjJdO/CSzS\nzxxL2ngvenBYXGVsdZ1n2Gz1M1QBpzjZzTQEjJ0VvZEBBeYxCXaAqxpLhfUsDeKY\nQV674Ru7aWX214kQxC+0k7kRI0rK/axDVtZEO4NzLUSHFzIKwQiZfqE3gtcToXP3\nAwiRhg0ueu3v1HdeTausYC/nkHnOHhXkzi7/e6iqhluQKbyWQWdG2kWfuUluT/f/\ndR/s0ICfAgMBAAECggEAP7ZyCd/9biYuY6vsmN2heOhJ3B591sqAIYJgYvQgIhE9\nnYqOE6U+oHpmIui+aonfnvSuwOwTvKJODSs5Wz8MIh+HkWYO3BVS1he4YrpwnfL+\ndBYV55k356gbOZsOSLxhoGC8jp9T1R+XdHpWQjzQZ2B9Fg+VniyPLurSWs2H6W0l\nmDY0iQXJBfP3LUPvL8heOWF7NBl3Ri9fMqIukMPEcXwvFfPVadudKwv+gq/qeCRz\nSDWo0J/zopxJRsXprjK1sWX0r4eKmnKskM1eiVWwANi8OumWgmE7mKoxwMXKt5FP\nQsQszLf/cnPLrzlGwY21Cc6HrLnYLEefeqQ8FRahAQKBgQD118nSiHzaXDvoBKD6\nd3GoRUu1r4P97b9JVEy6UdoVKsx2HF+7uVq3GFEIjnu8Zdhjhv/19zv7UwbnyPjz\npTlvY87kPjuZwYhqqMnzwlBAXBXpWPywmzR7/zyDJyzzN/J42j7yjDoZzpWut25a\nd4PefRMby/qpyIoiJdRiCcWUBQKBgQDuzIhgJU7xzOUhi4j2shAvY2tAUCG/6Lrz\nq2qAms9jZdzRAR6PSTmugZY9IF7vdnuBslDJt4EL6e/Bet4f+EB1KLNAfvSJxxz8\nqL2W9vfOTf9g/rDWymm/u+ewpYNO1anxV6vPyKwEI6fQzBCOu+wB7xINjKMcL+YQ\nTo2GpD3nUwKBgQCtJfSBkZvN95RBz7DJd4LXbybpqdqe5+oH7ZW0zJ16txAWR9mt\nT9jyh+/axO+lO13yi0yPojfexRVh/oxIniAbsgIvgx1bJ5G6/XJvenYnPjQ4i3I9\nuLJ4esXV4aupCch/Ecev8M+jCXsm+Q6CLRb1hsYEl9/N4O5ZKqew/QzpOQKBgQCZ\nUh0ljg631VQwS4Suz/jwVCbibhCdRPHzzVVeKQeKzDYQw2U5nkw4rN8ndAdAPJRj\n23dfbECgw5y6XwcLA7tu/ajJejnL1FnaJwVDTmIgxZd4UU59OgzXm+/QTRSXozuv\nxxh7Gl7HcZUnzD29Rw7q1vKCXI/FY0OVqLnZfs54HQKBgQCpabzVQsHSk4UDUY8y\n1HyrP7O2Z+w0wIne3MzMVhLTawemwvRbW1wrtlEXYzxC5/WKk6DQ2+AEQhL51Fqq\n9mD22CenWRAYRIn2gJsFescKx/LWFkzJUJDbJr6ZhQLhsc7Qk7RUwCre+ryzS78V\nVBnEEopTR26ZCXhHTcysWimn/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "testing@digital-maker-375921.iam.gserviceaccount.com",
+  "client_id": "100652161167585316896",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testing%40digital-maker-375921.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
